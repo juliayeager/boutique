@@ -1,0 +1,140 @@
+p{
+    font-family: 'Montagu Slab', serif;
+    font-size: smaller;
+    color: #052517;
+    text-align: center;
+}
+h1{
+    font-family: 'Montagu Slab', serif;
+    font-size: large;
+    text-align: center;
+    color: #052517;
+}
+h2{
+    font-family:'Montagu Slab', serif;
+    font-size: medium;
+    color:#052517;
+    text-align: center;
+}
+h3{
+    font-family: 'Montagu Slab', serif;
+    font-size: x-small;
+    color: #FFFFFF;
+
+}
+h4{
+    background-color: #fae0c0;
+    font-family:'Montagu Slab', serif;
+    font-size: x-small;
+    color:#052517;
+    text-align: center;
+}
+h5{
+    font-family: 'Montagu Slab', serif;
+    font-size: small;
+    color: #FAE0C0;
+}
+h6{
+    background-color: #052517;
+    font-family:'Montagu Slab', serif;
+    font-size: x-small;
+    color: #fae0c0;
+    text-align: center;
+}
+.h7{
+    font-family: 'Montagu Slab', serif;
+    font-size: small;
+    color: #052517;
+    text-align: left;
+}
+.promo{
+    background-color: #fae0c0;
+}
+.section{
+    background-color: #052517;
+}
+.featured1{
+    padding: 10px;;
+}
+.featured2{
+    padding: 10px;
+}
+.featured3{
+   padding:10px;
+}
+.featured4{
+    padding: 10px;
+}
+.shop1{
+  padding: 20px;
+}
+.shop2{
+    padding: 20px;
+}
+.shop3{
+    padding: 20px;
+}
+.product1{
+    padding: 10px;
+}
+.product2{
+    padding: 10px;
+}
+.product3{
+    padding: 10px;
+}
+.product4{
+    padding: 10px;
+}
+.product5{
+    padding: 10px;
+}
+.product6{
+    padding: 10px;
+}
+.product7{
+    padding: 10px;
+}
+.product8{
+    padding: 10px;
+}
+.product9{
+    padding: 10px;
+}
+.product10{
+    padding: 10px;;
+}
+.product11{
+    padding: 10px;
+}
+.product12{
+    padding: 10px;
+}
+.closing{
+    background-color:#052517 ;
+}
+footer{
+    background-color: #052517;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+a:link { 
+    text-decoration: none; 
+    color: #052517;
+
+    }
+    a:visited { 
+    font-weight: bold; 
+    text-decoration: none; 
+    color:#1d583f;
+    }
+    a:hover, a:focus, a:active { 
+    text-decoration: underline; 
+    color: #555753;
+    }
+    .greenbg {
+     background-color:#052517;
+    }
+    .tanbg{
+        background-color:#fae0c0;
+    }
